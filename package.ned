@@ -1,0 +1,3 @@
+package cmpsfinal;
+
+@license(LGPL);
