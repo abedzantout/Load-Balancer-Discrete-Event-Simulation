@@ -62,7 +62,7 @@ The simulation provided is based on the effort of two individuals that worked re
 
 ##License
 
-Copyright 2016 Abed Zantout, Abbas Baydoun
+Copyright 2016 [Abed Zantout](https://github.com/abedzantout/), [Abbas Baydoun](https://github.com/abbasb717)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
